@@ -1,0 +1,11 @@
+androidx.viewpager:viewpager:1.0.0
+androidx.legacy:legacy-support-v4:1.0.0
+androidx.localbroadcastmanager:localbroadcastmanager:1.0.0
+androidx.core:core:1.0.0
+androidx.fragment:fragment:1.0.0
+androidx.lifecycle:lifecycle-common:2.0.0
+androidx.lifecycle:lifecycle-viewmodel:2.0.0
+androidx.recyclerview:recyclerview:1.0.0
+androidx.cardview:cardview:1.0.0
+androidx.coordinatorlayout:coordinatorlayout:1.0.0
+androidx.appcompat:appcompat:1.0.0

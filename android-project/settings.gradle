@@ -1,0 +1,2 @@
+include ':androidx', ':androidxres'
+rootProject.name='AndroidX Libs'
